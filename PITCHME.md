@@ -49,7 +49,8 @@
 ---
 
 # 장재영
-![img](https://s.gae9.com/trend/6384dccb2718f867.orig&size=auto 50&)
+
+![img](https://s.gae9.com/trend/6384dccb2718f867.orig)
 
 별명 : 장재
 
