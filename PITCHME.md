@@ -39,7 +39,7 @@
 
 # 이지선
 
-![image](http://jjalbang.today/jj1DC.jpg&size=auto 40&)
+![image](http://jjalbang.today/jj1DC.jpg)
 
 별명: 지또니
 
