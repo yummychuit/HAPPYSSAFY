@@ -82,7 +82,7 @@
 
 # 지상현
 
-![image](http://thumb2.photo.cloud.naver.com/3472385905801413148?type=m3&setidc=2&filelink=1ipg6a71umgJk625K3V098dNwhchEJgsYP/2O6+XKvwtQonktKi8rSlBVh6UwoptWW1KmIr0aBL37X4GpsbblgI=&authtoken=eQuFvEmpLNqgVpys+pCsygI=&size=auto 40%)
+![1545890255691](C:\Users\student\AppData\Roaming\Typora\typora-user-images\1545890255691.png)
 
 
 별명 : 지쓰
