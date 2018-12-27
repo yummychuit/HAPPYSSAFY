@@ -25,7 +25,7 @@
 # 이상주
 
 
-![ìì¶ì ëí ì´ë¯¸ì§ ê²ìê²°ê³¼](http://tjscoop.shopmaul.co.kr/image/up_img/detail/goods_475/%EA%BD%83%EC%83%81%EC%B6%941.jpg)
+![image](http://tjscoop.shopmaul.co.kr/image/up_img/detail/goods_475/%EA%BD%83%EC%83%81%EC%B6%941.jpg)
 
 
 별명 : 상추
@@ -39,7 +39,7 @@
 
 # 이지선
 
-![íì§ê²½ í¼ê³¤ì§¤ì ëí ì´ë¯¸ì§ ê²ìê²°ê³¼-10px](http://jjalbang.today/jj1DC.jpg&size=auto 40&)
+![image](http://jjalbang.today/jj1DC.jpg&size=auto 40&)
 
 별명: 지또니
 
