@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Happy SSAFY"
 title_separator          : "-"
 name                     : "Your Name"
-description              : "지상현과 "
+description              : "jiji"
 url                      : "https://leesangju92.github.io"
 baseurl                  : "/HAPPYSSAFY"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -55,7 +55,7 @@ staticman:
       type               : # "date"
       options:
         format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-  endpoint               : "https://leesangju92.github.io/HAPPYSSAFFY/"
+  endpoint               : # "https://leesangju92.github.io/HAPPYSSAFFY/"
 reCaptcha:
   siteKey                :
   secret                 :
