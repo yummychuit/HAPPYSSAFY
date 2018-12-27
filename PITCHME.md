@@ -60,7 +60,9 @@
 
 
 별명 : 조너굴
+
 성격 : 둥글둥글
+
 연말계획 : 집에가서 부모님과 지낼 예정 
 
 ---
@@ -70,7 +72,9 @@
 ![img](http://thumb2.photo.cloud.naver.com/3472385905801413148?type=m3&setidc=2&filelink=1ipg6a71umgJk625K3V098dNwhchEJgsYP/2O6+XKvwtQonktKi8rSlBVh6UwoptWW1KmIr0aBL37X4GpsbblgI=&authtoken=eQuFvEmpLNqgVpys+pCsygI=&size=auto 40&)
 
 별명 : 지쓰
+
 성격 : 세상 착하고 밝고 친절하고 따뜻한 마음을 가지고 있다.
+
 연말계획 : 조용히 영화를 보며 잠에 들고싶다,,,,
 
 ---
