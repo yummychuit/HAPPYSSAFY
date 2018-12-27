@@ -20,6 +20,10 @@
 
 # 이상주
 
+
+![ìì¶ì ëí ì´ë¯¸ì§ ê²ìê²°ê³¼](http://tjscoop.shopmaul.co.kr/image/up_img/detail/goods_475/%EA%BD%83%EC%83%81%EC%B6%941.jpg)
+
+
 별명 : 상추
 
 성격 : 낙천적
