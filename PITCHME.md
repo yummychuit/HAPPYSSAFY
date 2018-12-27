@@ -65,7 +65,7 @@
 
 ### 장재영
 
-<img src="https://s.gae9.com/trend/6384dccb2718f867.orig" width = 500>
+<img src="https://s.gae9.com/trend/6384dccb2718f867.orig" width = 1000>
 ---
 ### 장재영
 
