@@ -8,8 +8,9 @@
 
 # 권성령
 
-![picture](HAPPY-SSAFY/GI.jpg)
-
+![picture](
+        HAPPY-SSAFY/GI.jpg
+      )
 ---
 
 # 이상주
