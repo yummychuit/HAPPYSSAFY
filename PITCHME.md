@@ -99,7 +99,7 @@
 
 ### 지상현
 
-<img src="http://thumb1.photo.cloud.naver.com/3472385905801413148?type=m3&setidc=2&filelink=1ipg6a71umgJk625K3V098dNwhchEJgsYP/2O6+XKvwtQonktKi8rSlBVh6UwoptWW1KmIr0aBL37X4GpsbblgI=&authtoken=iqwjx+rHkw+2/ECk8lbEgwI=" width = 400>
+<img src="http://thumb2.photo.cloud.naver.com/3472385905801413148?type=m3&setidc=2&filelink=1ipg6a71umgJk625K3V098dNwhchEJgsYP/2O6+XKvwtQonktKi8rSlBVh6UwoptWW1KmIr0aBL37X4GpsbblgI=&authtoken=vMT4KZ29klHuK13J51kCCAI=" width = 500>
 
 ---
 ### 지상현
