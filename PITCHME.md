@@ -82,7 +82,7 @@
 
 # 지상현
 
-![1545890255691](C:\Users\student\AppData\Roaming\Typora\typora-user-images\1545890255691.png)
+![1545890286576](C:\Users\student\AppData\Roaming\Typora\typora-user-images\1545890286576.png)
 
 
 별명 : 지쓰
