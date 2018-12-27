@@ -65,7 +65,8 @@
 
 ### 장재영
 
-<img src="https://s.gae9.com/trend/6384dccb2718f867.orig" width = 1000>
+![ê°ì¤ëìì ëí ì´ë¯¸ì§ ê²ìê²°ê³¼](http://mblogthumb3.phinf.naver.net/20160921_218/singer94_1474443395588EpWEU_JPEG/%B0%A1%BF%C0%B3%AA%BD%C3_%BB%E7%C1%F8.jpg?type=w800)
+
 ---
 ### 장재영
 
