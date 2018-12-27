@@ -12,7 +12,7 @@
 
 # 권성령
 
-![ì´ë¯¸ì§: ì¬ë 1ëª, ê·¼ì  ì´¬ì](https://scontent-icn1-1.xx.fbcdn.net/v/t1.0-9/37791121_1040293079469049_8332624338247221248_n.jpg?_nc_cat=101&_nc_ht=scontent-icn1-1.xx&oh=3860e7f5a0b8f69eddf251c3d97a3e15&oe=5C99C639?image=assets/bg.jpg&size=80% auto);
+![ì´ë¯¸ì§: ì¬ë 1ëª, ê·¼ì  ì´¬ì](https://scontent-icn1-1.xx.fbcdn.net/v/t1.0-9/37791121_1040293079469049_8332624338247221248_n.jpg?_nc_cat=101&_nc_ht=scontent-icn1-1.xx&oh=3860e7f5a0b8f69eddf251c3d97a3e15&oe=5C99C639)---?image=assets/bg.jpg&size=80% auto
 
 별명 :  권또롱
 
