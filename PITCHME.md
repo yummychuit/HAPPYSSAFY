@@ -82,7 +82,7 @@
 
 ### 조성규
 
-<img src="http://thumb1.photo.cloud.naver.com/3472392319814472236?type=m3&setidc=2&filelink=fVrQbtlk8IbnamlaYWii0yRi9c9W4fZNAsH3TMwzpfcHevwGctjqMxetUKOJDC3OU0sYsrIKCqBL1zN6TGMKigU=&authtoken=hceYpcJpVK4asgm2T95SAQI=" width =400>
+![img](http://thumb1.photo.cloud.naver.com/3472392319814472236?type=m3&setidc=2&filelink=fVrQbtlk8IbnamlaYWii0yRi9c9W4fZNAsH3TMwzpfcHevwGctjqMxetUKOJDC3OU0sYsrIKCqBL1zN6TGMKigU=&authtoken=g4PnAT3wY1qZJchL9j/h0gI=)
 
 ---
 ### 조성규
