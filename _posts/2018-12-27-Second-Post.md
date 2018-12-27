@@ -1,5 +1,5 @@
 ---
-title: Design Thinking 방법론
+title: SSAFY Start Camp 챗봇 퀘스트 장재영
 ---
 
 # SSAFY Start Camp 챗봇 퀘스트
