@@ -1,6 +1,6 @@
 ---
 
-# 서울 3반 HAPPY SSAFY
+## 서울 3반 HAPPY SSAFY
 
 ### 안녕하세요
 
