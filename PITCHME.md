@@ -64,6 +64,8 @@
 
 # 조성규
 
+![img](http://thumb2.photo.cloud.naver.com/3472392319814472236?type=m3&setidc=2&filelink=fVrQbtlk8IbnamlaYWii0yRi9c9W4fZNAsH3TMwzpfcHevwGctjqMxetUKOJDC3OU0sYsrIKCqBL1zN6TGMKigU=&authtoken=xu0nYSlmIBQ1WZoUfK/xhgI=)
+
 
 별명 : 조너굴
 
