@@ -29,6 +29,7 @@
 ---
 
 # 장재영
+![img](https://s.gae9.com/trend/6384dccb2718f867.orig)
 
 별명 : 장재
 성격 : 차분
