@@ -2,7 +2,7 @@
 title: Design Thinking 방법론
 ---
 
-# Design Thinking 방법론
+# Design-Thinking-Method
 
 ###### 예제) 신선식품 원산지 정보 시스템
 
