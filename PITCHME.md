@@ -13,7 +13,7 @@
 
 ### 권성령
 
-<img src="https://scontent-icn1-1.xx.fbcdn.net/v/t1.0-9/37791121_1040293079469049_8332624338247221248_n.jpg?_nc_cat=101&_nc_ht=scontent-icn1-1.xx&oh=3860e7f5a0b8f69eddf251c3d97a3e15&oe=5C99C639" width = 200 >
+<img src="https://scontent-icn1-1.xx.fbcdn.net/v/t1.0-9/37791121_1040293079469049_8332624338247221248_n.jpg?_nc_cat=101&_nc_ht=scontent-icn1-1.xx&oh=3860e7f5a0b8f69eddf251c3d97a3e15&oe=5C99C639" width = 400 >
 
 ---
 ### 권성령
@@ -30,7 +30,7 @@
 
 ### 이상주
 
-<img src="http://tjscoop.shopmaul.co.kr/image/up_img/detail/goods_475/%EA%BD%83%EC%83%81%EC%B6%941.jpg" width = 200>
+<img src="http://tjscoop.shopmaul.co.kr/image/up_img/detail/goods_475/%EA%BD%83%EC%83%81%EC%B6%941.jpg" width = 400>
 
 ---
 ### 이상주
@@ -48,7 +48,7 @@
 
 ### 이지선
 
-<img src="http://jjalbang.today/jj1DC.jpg" width = 200>
+<img src="http://jjalbang.today/jj1DC.jpg" width = 400>
 
 ---
 ### 이지선
@@ -65,7 +65,7 @@
 
 ### 장재영
 
-<img src="https://s.gae9.com/trend/6384dccb2718f867.orig" width =200>
+<img src="https://s.gae9.com/trend/6384dccb2718f867.orig" width =400>
 
 ---
 ### 장재영
@@ -83,7 +83,7 @@
 
 ### 조성규
 
-<img src="http://thumb1.photo.cloud.naver.com/3472392319814472236?type=m3&setidc=2&filelink=fVrQbtlk8IbnamlaYWii0yRi9c9W4fZNAsH3TMwzpfcHevwGctjqMxetUKOJDC3OU0sYsrIKCqBL1zN6TGMKigU=&authtoken=hceYpcJpVK4asgm2T95SAQI=" width =200>
+<img src="http://thumb1.photo.cloud.naver.com/3472392319814472236?type=m3&setidc=2&filelink=fVrQbtlk8IbnamlaYWii0yRi9c9W4fZNAsH3TMwzpfcHevwGctjqMxetUKOJDC3OU0sYsrIKCqBL1zN6TGMKigU=&authtoken=hceYpcJpVK4asgm2T95SAQI=" width =400>
 
 ---
 ### 조성규
@@ -100,7 +100,7 @@
 
 ### 지상현
 
-<img src="http://thumb1.photo.cloud.naver.com/3472385905801413148?type=m3&setidc=2&filelink=1ipg6a71umgJk625K3V098dNwhchEJgsYP/2O6+XKvwtQonktKi8rSlBVh6UwoptWW1KmIr0aBL37X4GpsbblgI=&authtoken=iqwjx+rHkw+2/ECk8lbEgwI=" width = 200>
+<img src="http://thumb1.photo.cloud.naver.com/3472385905801413148?type=m3&setidc=2&filelink=1ipg6a71umgJk625K3V098dNwhchEJgsYP/2O6+XKvwtQonktKi8rSlBVh6UwoptWW1KmIr0aBL37X4GpsbblgI=&authtoken=iqwjx+rHkw+2/ECk8lbEgwI=" width = 400>
 
 ---
 ### 지상현
