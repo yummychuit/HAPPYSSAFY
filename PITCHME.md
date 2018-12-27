@@ -18,13 +18,20 @@
 
 # 이상주
 
-
+별명 : 상추
+성격 : 낙천적임
+연말계획 : 보고싶은 영화를 많이 볼 
 
 
 ---
 
 # 이지선
 
+![íì§ê²½ í¼ê³¤ì§¤ì ëí ì´ë¯¸ì§ ê²ìê²°ê³¼](http://jjalbang.today/jj1DC.jpg)
+
+별명: 지또니
+성격: 새침
+연말 계획 및 12.31일에 하고 싶은 것: 친구들이랑 전주에서 송년회
 
 ---
 
@@ -52,8 +59,8 @@
 ![img](http://thumb2.photo.cloud.naver.com/3472385905801413148?type=m3&setidc=2&filelink=1ipg6a71umgJk625K3V098dNwhchEJgsYP/2O6+XKvwtQonktKi8rSlBVh6UwoptWW1KmIr0aBL37X4GpsbblgI=&authtoken=eQuFvEmpLNqgVpys+pCsygI=)
 
 별명 : 지쓰
-성격 : 
-
+성격 : 세상 착하고 밝고 친절하고 따뜻한 마음을 가지고 있다.
+연말계획 : 조용히 영화를 보며 잠에 들고싶다,,,,
 
 ---
 
